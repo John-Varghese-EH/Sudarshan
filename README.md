@@ -3,8 +3,7 @@
 
 Sudarshan is a modern, AI-enhanced web application designed to promote cybersecurity awareness and education. It provides users with interactive tools to understand encryption, analyze potential threats, and learn about security best practices in a hands-on manner. The platform is built with a focus on security, performance, and user experience, leveraging a powerful stack that includes Next.js, Google's Genkit, and Firebase.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e5149f12-9d33-4f36-92f7-82a1335955b0/deploy-status)](https://app.netlify.com/sites/sudarshan-app/deploys)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a640bff1-5445-4c0c-a82d-79cd3f8c133f/deploy-status)]
 ## ✨ Live Demo
 
 Experience the live application here: [**sudarshan-app.netlify.app**](https://sudarshan-app.netlify.app/)
