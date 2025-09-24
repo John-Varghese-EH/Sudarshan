@@ -30,53 +30,6 @@ This project is built with a modern, robust, and scalable technology stack:
 - **Hosting**: Deployed on [**Netlify**](https://www.netlify.com/) for continuous integration, global scale, and reliability.
 - **Encryption**: [**crypto-js**](https://github.com/brix/crypto-js) - For implementing AES client-side encryption.
 
-## ⚙️ Getting Started
-
-Follow these instructions to set up and run the project locally on your machine.
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/en/) (v18 or later)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/sudarshan.git
-cd sudarshan
-```
-
-### 2. Install Dependencies
-
-```bash
-npm install
-```
-
-### 3. Set Up Environment Variables
-
-Create a `.env.local` file in the root of the project and add your Firebase and Genkit API keys. You can get these from the Firebase console and Google AI Studio.
-
-```.env.local
-# Firebase Configuration
-NEXT_PUBLIC_FIREBASE_API_KEY=your_api_key
-NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your_auth_domain
-NEXT_PUBLIC_FIREBASE_PROJECT_ID=your_project_id
-NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your_storage_bucket
-NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
-NEXT_PUBLIC_FIREBASE_APP_ID=your_app_id
-
-# Genkit (Google AI) API Key
-GOOGLE_API_KEY=your_google_ai_api_key
-```
-
-### 4. Run the Development Server
-
-```bash
-npm run dev
-```
-
-The application will be available at [http://localhost:9002](http://localhost:9002).
-
 ## 📂 Project Structure
 
 ```
@@ -116,16 +69,6 @@ This model ensures that the conversation remains private and secure. The **Encry
 ## 🚀 Deployment
 
 This application is deployed on [**Netlify**](https://www.netlify.com/). The site is automatically rebuilt and deployed whenever new changes are pushed to the `main` branch.
-
-## 🙌 How to Contribute
-
-Contributions are welcome! If you have suggestions for improvements or want to fix a bug, please feel free to:
-
-1.  Fork the repository.
-2.  Create a new branch (`git checkout -b feature/YourFeature`).
-3.  Make your changes and commit them (`git commit -m 'Add some feature'`).
-4.  Push to the branch (`git push origin feature/YourFeature`).
-5.  Open a Pull Request.
 
 ## 📄 License
 
