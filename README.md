@@ -6,7 +6,7 @@ Sudarshan is a modern, AI-enhanced web application designed to promote cybersecu
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a640bff1-5445-4c0c-a82d-79cd3f8c133f/deploy-status)]
 ## ✨ Live Demo
 
-Experience the live application here: [**sudarshan-app.netlify.app**](https://sudarshan-app.netlify.app/)
+Experience the live application here: [**sudarshan-app.netlify.app**](https://mystic-sudarshan.netlify.app/)
 
 ## 🚀 Key Features
 
